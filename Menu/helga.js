@@ -1,11 +1,11 @@
 fill =`Hai Kak ${pushname}, ${tampilUcapan}
 Silahkan Pilih Untuk Menampilkan Menu Bot
 
-⛾Rest Apii : https://api-helgazex.herokuapp.com
+⛾Rest Apii : https://api-Bayubotzz.herokuapp.com
 
     『 BOT INFO 』
 
-*࿊⃟〽️* Device : Poco X3 
+*࿊⃟〽️* Device : Samsung
 *࿊⃟〽️* Wa Version : 2.21.11.17
 *࿊⃟〽️* OS Version : 11
 *࿊⃟〽️* MNC : 001
@@ -13,7 +13,7 @@ Silahkan Pilih Untuk Menampilkan Menu Bot
 *࿊⃟〽️* Platfrom : ${os.platform()}
 *࿊⃟〽️* Mode : ${publik ? 'Public' : 'Self'}
 *࿊⃟〽️* Prefix : ${multi ? 'Multi Prefix' : 'No Prefix'}
-*࿊⃟〽️* Name Creator : Helga Zex
+*࿊⃟〽️* Name Creator : BAYU OFC
 
 
        『 USER INFO 』
